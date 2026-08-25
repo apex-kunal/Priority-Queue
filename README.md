@@ -18,6 +18,6 @@
 
 ## 3. How to Run
 ```bash
-node demo.js
+node module.js
 
 Note: The `pq_data.json` file will be generated automatically when you run the script no nneed to create it manually.
