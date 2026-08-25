@@ -19,5 +19,6 @@
 ## 3. How to Run
 ```bash
 node module.js
+node test-case.js
 
 Note: The `pq_data.json` file will be generated automatically when you run the script no nneed to create it manually.
